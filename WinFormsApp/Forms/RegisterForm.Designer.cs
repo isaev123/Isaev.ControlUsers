@@ -131,7 +131,7 @@
             // textBoxLogin
             // 
             this.textBoxLogin.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.textBoxLogin.ForeColor = System.Drawing.SystemColors.Window;
+            this.textBoxLogin.ForeColor = System.Drawing.SystemColors.WindowText;
             this.textBoxLogin.Location = new System.Drawing.Point(6, 37);
             this.textBoxLogin.Name = "textBoxLogin";
             this.textBoxLogin.Size = new System.Drawing.Size(235, 23);
